@@ -1,0 +1,145 @@
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767.5px) {
+
+    .navbar-brand img{
+        width: 180px;
+    }
+    .hg-content {
+        height: 400px;
+    }
+    .content h1 {
+        font-size: 25px;
+    }
+    .content p {
+        font-size: 15px;
+    }
+    .btn-custom-one {
+        font-size: 15px;
+    }
+    .btn-custom-two {
+        font-size: 15px;
+    }
+    .about-section {
+        margin: 50px 0;
+    }
+
+
+    .about-section {
+        /* margin: 0px 0; */
+        padding: 180px 0;
+        background: url(../images/about-banner1.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: 500px 880px;
+    }
+
+    .about-content {
+        margin-bottom: 250px;
+    }
+
+    .about-content p {
+        font-size: 10px;
+        color: #fff;
+    }
+    .about-content h1 {
+        font-size: 30px;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #40afcc;
+    }
+}
+
+@media (max-width: 575px) {
+
+}
+
+@media (max-width: 480px) {
+    
+    .navbar-brand img{
+        width: 150px;
+    }
+    .hg-content {
+        height: 400px;
+    }
+    .content h1 {
+        font-size: 16px;
+    }
+    .content p {
+        font-size: 13px;
+    }
+    .btn-custom-one {
+        font-size: 12px;
+    }
+    .btn-custom-two {
+        font-size: 12px;
+    }
+    .about-section {
+        margin: 50px 0;
+    }
+
+
+    .about-section {
+        /* margin: 0px 0; */
+        padding: 180px 0;
+        background: url(../images/about-banner1.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: 500px 880px;
+    }
+
+    .about-content {
+        margin-bottom: 250px;
+    }
+
+    .about-content p {
+        font-size: 10px;
+        color: #fff;
+    }
+    .about-content h1 {
+        font-size: 30px;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #40afcc;
+    }
+
+    .skill {
+        background-image: url(../images/about-banner1.png);
+        background-size: 1000px 800px;
+        background-repeat: no-repeat;
+        background-position: left;
+        /* height: 493px; */
+        /* margin: 146px 0; */
+        padding: 180px 0;
+    }
+
+    .skill-title h1 {
+        font-size: 25px;
+    }
+
+    .resum {
+        background-image: url(../images/shape1.png);
+        background-repeat: no-repeat;
+        background-position: cover;
+        background-size: 100% 380px;
+        
+    }
+
+  
+}
+@media (max-width: 380px) {
+    .bar {
+        height: 5px;
+        width: 280px;
+}
+.bar span {
+    height: 5px;
+}
+
+}
